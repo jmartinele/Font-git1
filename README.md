@@ -48,9 +48,10 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 ## Meta
 
 Seu nome - [@SeuTwitter](https://twitter.com/) - seuemail@gmail.com
+
 Distribuído sob a lincença. Veja `LICENÇA` para mais informações.
-[https://github.com/jmartinele/Font-git1]
-(https://github.com/jmartinele)
+
+[https://github.com/jmartinele/Font-git1](https://github.com/jmartinele/Font-git1)
 
 
 # Referências - `Opcional`
